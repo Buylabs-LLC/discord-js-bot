@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
+  <a href="https://github.com/BuyLabs-LLC"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
   <br>
   Discord.js v14 Bot
   <br>
@@ -42,7 +42,7 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
+git clone https://github.com/BuyLabs-LLC/discord-js-bot.git
 cd discord-js-bot
 npm install
 ```
